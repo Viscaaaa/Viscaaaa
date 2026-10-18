@@ -2,5 +2,5 @@
 
 Junior Software engineer who enjoys turning real industry problems into practical systems with technology. I'm a curious, flexible learner who loves picking up new things, and I'm especially drawn to robotics, microcontrollers, and how machines work.
 
-- 🤖 On a mission to collect and learn microcontrollers, one board at a time
+- 🤖 On a mission to collect and learn microcontrollers, on a minimal budget 
 - 🌱 Open to learning any technology, and ready to go deep when it matters
