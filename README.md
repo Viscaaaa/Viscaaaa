@@ -5,4 +5,4 @@ Junior Software engineer who enjoys turning real industry problems into practica
 - 🤖 On a mission to collect and learn microcontrollers, on a minimal budget 
 - 🌱 Open to learning any technology, and ready to go deep when it matters
 
-**Wanna see my other version of me ?** [Peek here! 🐾](https://viscaaaa-github-io.vercel.app/) ♡ 
+**Wanna see other version of me ?** [Peek here! 🐾](https://viscaaaa-github-io.vercel.app/) ♡ 
